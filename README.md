@@ -11,6 +11,10 @@ Sharp turns, erratic road conditions, and constrained sightlines are common in h
 ## 🎯Flow diagram :
 ![image](https://github.com/sriramdharnish/Lora-protocol-based-accident-alert-system-for-hilly-terrains/assets/94969747/860c86bd-9f1f-4326-a5e9-c494d3de20bc)
 ## 🧪Experiment Setup :
+![image](https://github.com/sriramdharnish/Lora-protocol-based-accident-alert-system-for-hilly-terrains/assets/94969747/8ca1232f-59ba-4684-843c-3f3eca3082c4)
+* The above picture shows a vehicle come for bend, the ultrasonic sense the vehicle  presence and send the data to NodeMCU and it can send data to LoRa it communicates to another LoRa in that side, and the data send to NodeMCU and arrival of the vehicle is indicated by the red-Light traffic LED.
+  
+
 
 
 
