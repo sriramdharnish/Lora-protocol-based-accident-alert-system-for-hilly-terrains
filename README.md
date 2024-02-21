@@ -8,6 +8,13 @@ Sharp turns, erratic road conditions, and constrained sightlines are common in h
 * LoRa
 * NodeMCU ESP8266
 * Ultrasonic Sensor
-## Flow diagram :
+## 🎯Flow diagram :
+![image](https://github.com/sriramdharnish/Lora-protocol-based-accident-alert-system-for-hilly-terrains/assets/94969747/860c86bd-9f1f-4326-a5e9-c494d3de20bc)
+## 🧪Experiment Setup :
+
+
+
+
+
 
 
